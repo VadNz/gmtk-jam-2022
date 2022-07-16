@@ -66,7 +66,7 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: cc5d0f9d58b867478d03ca5f2591b414
     GuidInternal: 
-    m_lastTime: -8585436885666598145
+    m_lastTime: -8585436869132175940
     List:
     - name: Master
       guid: 6a533db0037d3e45b3fdd1b2f310b953
@@ -94,8 +94,45 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: 8b620d5cde2873478cf640ce9f0c174e
     GuidInternal: 
-    m_lastTime: -8585436888644594656
-    List: []
+    m_lastTime: -8585436869132335979
+    List:
+    - name: Default
+      guid: 6437c2a8682052459b5a3a90943f876f
+      id: 782826392
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 8b620d5cde2873478cf640ce9f0c174e
+      - ElementName: Default
+        ObjectType: 4
+        guid: 6437c2a8682052459b5a3a90943f876f
+      Path: Events\Default Work Unit\Default
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Test
+      guid: f21c68c4b30b49458bf2fe56a7090ee3
+      id: 3157003241
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 8b620d5cde2873478cf640ce9f0c174e
+      - ElementName: Default
+        ObjectType: 4
+        guid: 6437c2a8682052459b5a3a90943f876f
+      - ElementName: Test
+        ObjectType: 3
+        guid: f21c68c4b30b49458bf2fe56a7090ee3
+      Path: Events\Default Work Unit\Default\Test
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     PathAndIcons:
